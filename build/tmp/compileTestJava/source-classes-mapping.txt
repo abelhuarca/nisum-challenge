@@ -1,0 +1,8 @@
+com/nisum/challenge/user/domain/usecase/AppUserManagementUCImplTest.java
+ com.nisum.challenge.user.domain.usecase.AppUserManagementUCImplTest
+com/nisum/challenge/user/adapter/controller/AppAppUserControllerTest.java
+ com.nisum.challenge.user.adapter.controller.AppAppUserControllerTest
+com/nisum/challenge/user/AppUserTest.java
+ com.nisum.challenge.user.AppUserTest
+com/nisum/challenge/user/adapter/database/user/AppUserManagementServiceImplTest.java
+ com.nisum.challenge.user.adapter.database.user.AppUserManagementServiceImplTest
